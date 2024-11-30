@@ -1,5 +1,5 @@
 # Library-Management-System
-THIS IV LIBRARYMANAGEMENT SYSTEM V1.0
+THIS IS LIBRARY MANAGEMENT SYSTEM V1.0
 FEATURES AVAILABLE IS *View Books
                       *Add Books
                       *Remove Books
